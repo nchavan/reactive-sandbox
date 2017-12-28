@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/movie-reactive-rest-mongodb/movie-reactive-rest-mongodb.iml" filepath="$PROJECT_DIR$/movie-reactive-rest-mongodb/movie-reactive-rest-mongodb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/movie-reactive-rest-mongodb_main.iml" filepath="$PROJECT_DIR$/.idea/modules/movie-reactive-rest-mongodb_main.iml" group="movie-reactive-rest-mongodb" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/movie-reactive-rest-mongodb_test.iml" filepath="$PROJECT_DIR$/.idea/modules/movie-reactive-rest-mongodb_test.iml" group="movie-reactive-rest-mongodb" />
       <module fileurl="file://$PROJECT_DIR$/.idea/reactive-sandbox.iml" filepath="$PROJECT_DIR$/.idea/reactive-sandbox.iml" />
       <module fileurl="file://$PROJECT_DIR$/reactivebasic/reactivebasic.iml" filepath="$PROJECT_DIR$/reactivebasic/reactivebasic.iml" />
     </modules>

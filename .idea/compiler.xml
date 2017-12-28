@@ -10,6 +10,8 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="movie-reactive-rest-mongodb_main" target="1.8" />
+      <module name="movie-reactive-rest-mongodb_test" target="1.8" />
       <module name="reactivebasic" target="1.8" />
     </bytecodeTargetLevel>
   </component>
