@@ -2,17 +2,20 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
       <profile name="Maven default annotation processors profile" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="reactivebasic" />
+        <module name="webflux-stock-service" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="movie-reactive-rest-mongodb_main" target="1.8" />
       <module name="movie-reactive-rest-mongodb_test" target="1.8" />
       <module name="reactivebasic" target="1.8" />
+      <module name="webflux-stock-service" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

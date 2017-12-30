@@ -4,6 +4,7 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/reactivebasic/pom.xml" />
+        <option value="$PROJECT_DIR$/webflux-stock-service/pom.xml" />
       </list>
     </option>
   </component>

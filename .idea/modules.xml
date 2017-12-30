@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/movie-reactive-rest-mongodb_test.iml" filepath="$PROJECT_DIR$/.idea/modules/movie-reactive-rest-mongodb_test.iml" group="movie-reactive-rest-mongodb" />
       <module fileurl="file://$PROJECT_DIR$/.idea/reactive-sandbox.iml" filepath="$PROJECT_DIR$/.idea/reactive-sandbox.iml" />
       <module fileurl="file://$PROJECT_DIR$/reactivebasic/reactivebasic.iml" filepath="$PROJECT_DIR$/reactivebasic/reactivebasic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webflux-stock-service/webflux-stock-service.iml" filepath="$PROJECT_DIR$/webflux-stock-service/webflux-stock-service.iml" />
     </modules>
   </component>
 </project>
